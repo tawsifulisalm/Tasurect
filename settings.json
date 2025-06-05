@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "tasurect123", 
-    "password": "tasurectcc",
+    "password": "",
     "type": "offline"
   },
 
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "tasurectcc"
+      "enabled": false,
+      "password": ""
     },
 
     "anti-afk": {
