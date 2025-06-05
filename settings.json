@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "tasurect123", 
+    "username": "tasurect", 
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "herosmps6.minehut.gg", 
-    "port": 25565,   
+    "ip": "herosmps.falixsrv.me", 
+    "port": 38614,   
     "version": "1.12.1"   
   },
   
