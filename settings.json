@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "herosmps6.aternos.me", 
-    "port": 47666,   
+    "ip": "herosmpse6.minefort.com", 
+    "port": 25565,   
     "version": "1.12.1"   
   },
   
